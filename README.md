@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryadeepyadav
 - 👀 I’m interested in doing coding 
 - 🌱 I’m currently learning DSA with core java and React js also 
-- 💞️ I’m looking for a job in it fields 
+- 💞️ I’m looking for a job in it (information technology) fields 
 - 📫 How to reach me . my linkedin profile name is suryadeep yadav 
 
 <!---
